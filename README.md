@@ -35,13 +35,14 @@
 ### 📚 Reading List
 
 - [SOLID - Introduction to Software Design & Architecture][solidbook]
-- [The Shadow of the Wind][theshadowofthewind]
+- [The Devotion of Suspect X][thedevotionofsuspectx]
 
 [halfpricedealsandroid]: https://play.google.com/store/apps/details?id=com.erron.halfpricedeals
 [halfpricedealsios]: https://apps.apple.com/us/app/half-price-deals/id1518367162
 [linkedin]: https://www.linkedin.com/in/aaron-nguyen-an
 [solidbook]: https://solidbook.io
 [theshadowofthewind]: https://www.goodreads.com/book/show/1232.The_Shadow_of_the_Wind
+[thedevotionofsuspectx]: https://www.goodreads.com/book/show/8686068-the-devotion-of-suspect-x
 
 <!--
 **ntta/ntta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
