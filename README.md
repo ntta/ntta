@@ -34,8 +34,10 @@
 
 ### 📚 Reading List
 
-- [SOLID - Introduction to Software Design & Architecture][solidbook]
-- [The Devotion of Suspect X][thedevotionofsuspectx]
+- [ ] [SOLID - Introduction to Software Design & Architecture - Khalil Stemmler][solidbook]
+- [ ] [And Then There Were None - Agatha Christie][solidbook]
+- [x] [The Shadow of the Wind - Carlos Ruiz Zafón][theshadowofthewind]
+- [x] [The Devotion of Suspect X - Keigo Higashino][thedevotionofsuspectx]
 
 [halfpricedealsandroid]: https://play.google.com/store/apps/details?id=com.erron.halfpricedeals
 [halfpricedealsios]: https://apps.apple.com/us/app/half-price-deals/id1518367162
@@ -43,6 +45,7 @@
 [solidbook]: https://solidbook.io
 [theshadowofthewind]: https://www.goodreads.com/book/show/1232.The_Shadow_of_the_Wind
 [thedevotionofsuspectx]: https://www.goodreads.com/book/show/8686068-the-devotion-of-suspect-x
+[andthentherewerenone]: https://www.goodreads.com/book/show/16299.And_Then_There_Were_None
 
 <!--
 **ntta/ntta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
