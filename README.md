@@ -35,6 +35,7 @@
 ### 📚 Reading List
 
 - [ ] [SOLID - Introduction to Software Design & Architecture - Khalil Stemmler][solidbook]
+- [ ] [The Murder of Roger Ackroyd - Agatha Christie][themurderofrogerackroyd]
 - [x] [And Then There Were None - Agatha Christie][solidbook]
 - [x] [The Shadow of the Wind - Carlos Ruiz Zafón][theshadowofthewind]
 - [x] [The Devotion of Suspect X - Keigo Higashino][thedevotionofsuspectx]
@@ -46,6 +47,7 @@
 [theshadowofthewind]: https://www.goodreads.com/book/show/1232.The_Shadow_of_the_Wind
 [thedevotionofsuspectx]: https://www.goodreads.com/book/show/8686068-the-devotion-of-suspect-x
 [andthentherewerenone]: https://www.goodreads.com/book/show/16299.And_Then_There_Were_None
+[themurderofrogerackroyd]: https://www.goodreads.com/book/show/16328.The_Murder_of_Roger_Ackroyd
 
 <!--
 **ntta/ntta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
