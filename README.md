@@ -35,7 +35,7 @@
 ### 📚 Reading List
 
 - [ ] [SOLID - Introduction to Software Design & Architecture - Khalil Stemmler][solidbook]
-- [ ] [The Murder of Roger Ackroyd - Agatha Christie][themurderofrogerackroyd]
+- [x] [The Murder of Roger Ackroyd - Agatha Christie][themurderofrogerackroyd]
 - [x] [And Then There Were None - Agatha Christie][solidbook]
 - [x] [The Shadow of the Wind - Carlos Ruiz Zafón][theshadowofthewind]
 - [x] [The Devotion of Suspect X - Keigo Higashino][thedevotionofsuspectx]
