@@ -29,7 +29,7 @@
 
 <br />
 <br />
-
+<!--
 ---
 
 ### 📚 Reading List
@@ -39,6 +39,7 @@
 - [x] [And Then There Were None - Agatha Christie][solidbook]
 - [x] [The Shadow of the Wind - Carlos Ruiz Zafón][theshadowofthewind]
 - [x] [The Devotion of Suspect X - Keigo Higashino][thedevotionofsuspectx]
+-->
 
 [halfpricedealsandroid]: https://play.google.com/store/apps/details?id=com.erron.halfpricedeals
 [halfpricedealsios]: https://apps.apple.com/us/app/half-price-deals/id1518367162
