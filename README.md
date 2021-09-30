@@ -1,4 +1,4 @@
-### Hi there, I'm Aaron - aka Erron Developer 👋
+### Hi there, I'm Aaron - aka Erron Engineer 👋
 
 ## I'm a Software Engineer
 
