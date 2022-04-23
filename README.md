@@ -24,7 +24,7 @@
 <img align="left" alt="MySQL" width="26px" src="./icons/mysql.svg" />
 <img align="left" alt="Firebase" width="26px" src="./icons/firebase.svg" />
 <img align="left" alt="Google Cloud Platform" width="26px" src="./icons/gcp.svg" />
-<img align="left" alt="Neovim" width="26px" src="./icons/neovim.svg" />
+<img align="left" alt="Neovim" width="26px" src="./icons/vim.svg" />
 <img align="left" alt="VS Code" width="26px" src="./icons/vscode.svg" />
 
 <br />
