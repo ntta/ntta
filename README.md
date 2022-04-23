@@ -2,11 +2,11 @@
 
 ## I'm a Software Engineer
 
-- 🔭 I’m currently working on my Gross Aussie API (about grocery prices)
-- 🌱 I’m currently learning about the clean architecture for Flutter app
-- 💻 I have a mobile app for half-price products of Woolworths, Coles, and Chemist Warehouse (available on both [Google Play][halfpricedealsandroid] and [App Store][halfpricedealsios])
-- 🥅 2021 Goals: Publish Gross Aussie API and refactor the mobile app
-- ⚡ Fun fact: I use Vim as my IDE most of the time, but I'm still an expert in VS Code 😁
+- 🔭 I’m currently working on my Gross Oz (a wordplay of grocery!?) mobile app
+- 🌱 I’m teaching myself Flutter and using it for the app
+- 💻 I have published a Flutter mobile app, it provides half-price products of Woolworths, Coles, and Chemist Warehouse (available on both [Google Play][halfpricedealsandroid] and [App Store][halfpricedealsios])
+- 🥅 2022 Goals: Publish Gross Oz app 🙏
+- ⚡ Fun fact: I use Neovim and tmux as my IDE most of the time, but I'm still an expert in VS Code 😁
 
 ---
 
