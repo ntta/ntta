@@ -10,7 +10,7 @@
 
 ---
 
-### 🔨 Languages and Tools:
+### 🔨 Frameworks and Tools:
 
 <img align="left" alt="JavaScript" width="26px" src="./icons/javascript.svg" />
 <img align="left" alt="TypeScript" width="26px" src="./icons/typescript.svg" />
