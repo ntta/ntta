@@ -2,10 +2,10 @@
 
 ## I'm a Software Engineer
 
-- 🔭 I’m currently developing my Gross Oz (a wordplay of grocery!?) mobile app, which is a much bigger and better version of the published Half Price Deals app
-- 🌱 I’m teaching myself Flutter and using it for my all side projects
+- 🔭 I’m currently developing my new version of Half Price Deals mobile app, which is a much bigger and better version of the published one
+- 🌱 I’m teaching myself Flutter and NestJS, trying to use them for my all side projects
 - 💻 I have published a Flutter mobile app, it provides half-price products of Woolworths, Coles, and Chemist Warehouse (available on both [Google Play][halfpricedealsandroid] and [App Store][halfpricedealsios])
-- 🥅 2023 Goals: Refine and publish Gross Oz app 🙏
+- 🥅 2024 Goals: Refine and publish version 4.0 of my Half Price Deals app 🙏
 - ⚡ Fun fact: I use Neovim and tmux as my IDE most of the time, but I'm still an expert in VS Code 😁
 
 ---
